@@ -37,8 +37,8 @@ Si vous souhaitez tester la plateforme de recommandation, executez le fichier ap
         - `api.py`
 
 - `Documents/`
-   - `Catalogue de donnees.pdf
-   - `Gouvernance de donnees.pdf
+   - `Catalogue de donnees.pdf`
+   - `Gouvernance de donnees.pdf`
 
 - `media/`
    - `architecture.png`
