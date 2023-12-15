@@ -1,0 +1,6 @@
+- L'age moyen, minimal et maximal des utilisateurs 
+- Note moyenne, minimale et maximale des films
+- Repartition par genre (nombre de rating par genre) ---pie
+- Les heures où il y a le plus d'interactiions --ligne à revoir
+- Le genre de film le plus apprecié (note moyenne par genre de film) --barres
+- Les utilisateurs les plus actifs (ceux qui votent le plus) --
