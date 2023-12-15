@@ -39,6 +39,8 @@ Si vous souhaitez tester la plateforme de recommandation, executez le fichier ap
 - `Documents/`
    - `Catalogue de donnees.pdf`
    - `Gouvernance de donnees.pdf`
+   - `presentation.pdf`
+
 
 - `media/`
    - `architecture.png`
